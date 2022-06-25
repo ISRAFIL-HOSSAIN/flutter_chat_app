@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "474993453020",
+    "project_id": "tenures-9b586",
+    "storage_bucket": "tenures-9b586.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474993453020:android:f5db598e7cf69f2d7c5119",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474993453020-cc7scegdn9adrctqfei685pgli9oilmp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_app",
+            "certificate_hash": "818ba48e63d092517b298ec2b0a1435b0b3829be"
+          }
+        },
+        {
+          "client_id": "474993453020-ojo0m04886d3n420e58rug2jlafvstap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo-OFoU6EYpCsOBBgTe8uECgml-MyUyvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474993453020-ojo0m04886d3n420e58rug2jlafvstap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
